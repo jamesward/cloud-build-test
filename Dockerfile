@@ -1,3 +1,3 @@
 FROM scratch
 
-ENV FOO=BAR
+RUN fail
