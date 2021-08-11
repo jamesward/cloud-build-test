@@ -1,3 +1,5 @@
 FROM scratch
 
 ENV FOO=BAR
+
+COPY README.md .
